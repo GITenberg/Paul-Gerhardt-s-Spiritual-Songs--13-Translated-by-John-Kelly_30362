@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34557
     wikipedia: http://de.wikipedia.org/wiki/Paul_Gerhardt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30362#Paul-Gerhardt-s-Spiritual-Songs--13-Translated-by-John-Kelly
 gutenberg_issued: '2009-10-30'
 gutenberg_type: Text
 identifiers:
